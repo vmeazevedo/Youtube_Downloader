@@ -26,14 +26,14 @@ A simple graphical interface was also developed with Tkinter to give the user th
 ## Example of code operation:
   - When opening the application, the main screen will be presented to the user.
 
-! [py1] (https://user-images.githubusercontent.com/40063504/78510932-2db2f700-776f-11ea-9261-1e491bcb53c8.PNG)
+![py1](https://user-images.githubusercontent.com/40063504/78510932-2db2f700-776f-11ea-9261-1e491bcb53c8.PNG)
 
   - The user must paste the URL of the desired video and click on the "Download!"
 
-! [py2] (https://user-images.githubusercontent.com/40063504/78510961-59ce7800-776f-11ea-809c-1658ab134933.PNG)
+![py2](https://user-images.githubusercontent.com/40063504/78510961-59ce7800-776f-11ea-809c-1658ab134933.PNG)
 
   - After the download is completed, a success message is presented to the user and the file can be accessed in the directory described in the code.
 
-! [py4] (https://user-images.githubusercontent.com/40063504/78510994-8a161680-776f-11ea-9f6e-31cc37445cc8.PNG)
+![py4](https://user-images.githubusercontent.com/40063504/78510994-8a161680-776f-11ea-9f6e-31cc37445cc8.PNG)
 
-! [py5] (https://user-images.githubusercontent.com/40063504/78511000-90a48e00-776f-11ea-9335-80b90f6e77b0.PNG)
+![py5](https://user-images.githubusercontent.com/40063504/78511000-90a48e00-776f-11ea-9335-80b90f6e77b0.PNG)
